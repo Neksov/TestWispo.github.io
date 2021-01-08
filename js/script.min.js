@@ -1,0 +1,1 @@
+let swiper=new Swiper(".swiper-container",{slidesPerView:2,pagination:{el:".swiper-pagination",clickable:!0}});
